@@ -1,17 +1,29 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
-	basic_programming "github.com/theodesp/go-hackerearth/basic-programming"
+	"math/big"
+	"os"
 )
 
 func main() {
-	var N int
-	fmt.Scanf("%d", &N)
+	A := new(big.Int)
+	B := new(big.Int)
+	var result []string
+	scanner := bufio.NewScanner(os.Stdin)
 
-	nums := basic_programming.GetPrimeNumbers(N)
+	for scanner.Scan() {
+		sum := new(big.Int)
+		n, _ := fmt.Sscanf(scanner.Text(), "%s %s", A, B)
+		if n == 0 {
+			break
+		}
+		sum.Add(A, B)
+		result = append(result, sum.String())
+	}
 
-	for _, num := range nums {
-		fmt.Printf("%d ", num)
+	for _, val := range result {
+		fmt.Println(val)
 	}
 }
