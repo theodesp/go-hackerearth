@@ -9,6 +9,7 @@ May the code be with you.
     - [x] : Input Output
     - [x] : Prime numbers
     - [x] : A plus B
+    - [x] : Count Vowels
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
