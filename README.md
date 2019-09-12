@@ -10,6 +10,7 @@ May the code be with you.
     - [x] : Prime numbers
     - [x] : A plus B
     - [x] : Count Vowels
+    - [x] : Count Digits
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license

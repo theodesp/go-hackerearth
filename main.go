@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(basic_programming.CountVowels("baceb"))
+	fmt.Println(basic_programming.CountDigits("77150"))
 }
