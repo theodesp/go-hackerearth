@@ -11,6 +11,7 @@ May the code be with you.
     - [x] : A plus B
     - [x] : Count Vowels
     - [x] : Count Digits
+    - [x] : Birthday Party
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
