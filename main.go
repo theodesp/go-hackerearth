@@ -6,6 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(basic_programming.EquallyDivides(5, 14))
-	fmt.Println(basic_programming.EquallyDivides(3, 21))
+	fmt.Println(basic_programming.Substrings("baceb"))
 }

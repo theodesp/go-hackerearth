@@ -21,8 +21,8 @@ Constraints
 
 /*
  Solution:
- For each number 1 to N say i check
- if its prime by checking if the j from 2 to i/2 numbers factor it.
+ Observation: A prime number N cannot be factored. So to find all the prime numbers til N
+ then for each n <= N we try to find if any number factors the n. If yes we abort as we know that n is not a prime.
  */
 func PrintPrimeNumbers() {
 	var N int

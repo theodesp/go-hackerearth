@@ -92,3 +92,19 @@ func isVowel(word rune) bool  {
 		return false
 	}
 }
+
+func Substrings(s string) []string {
+	result := []string{}
+	seen := make(map[string]interface{})
+	for i := 0;i < len(s); i += 1 {
+		for j := i+1; j <= len(s); j += 1 {
+			sub := s[i:j]
+			if _, ok := seen[sub]; !ok {
+				result = append(result, sub)
+				seen[sub] = struct {}{}
+			}
+		}
+	}
+
+	return result
+}
