@@ -11,6 +11,7 @@ May the code be with you.
     - [x] : A plus B
     - [x] : Count Vowels
     - [x] : Count Digits
+    - [x] : Count Bits
     - [x] : Birthday Party
 
 ## LICENCE
