@@ -19,6 +19,7 @@ May the code be with you.
 - [x] **Data Structures**: [Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
     - [x] : Array Reverse
     - [x] : Transpose Matrix
+    - [x] : Balanced Brackets
 
 
 ## LICENCE

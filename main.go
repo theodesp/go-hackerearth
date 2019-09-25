@@ -1,7 +1,10 @@
 package main
 
-import data_structures "github.com/theodesp/go-hackerearth/data-structures"
+import (
+	"fmt"
+	data_structures "github.com/theodesp/go-hackerearth/data-structures"
+)
 
 func main() {
-	data_structures.PrintTranspose()
+	fmt.Println(data_structures.IsBalanced(")[[[})(])({][(}][)]((})[}([)({[(){(([(}]})(](]}}]}](}]}}})}([[()])[[{})[][](]()}{{}({)}((]}){{)([{([({)]{{()]{){[[)(}}(()[}}{(}{}]{}()(})))(((())}([][)][}[({)[[}))){[[(()({)}]{]([}]({]{{{{[]{}{{){]][]{)[{(]}{(]}]]{[}[]}}](}}}{{){][(](}[])}[){{(]}[]{{{)}}{]{]}}[(]{)[)]{)"))
 }
