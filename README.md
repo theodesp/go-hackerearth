@@ -21,7 +21,7 @@ May the code be with you.
     - [x] : Transpose Matrix
     - [x] : Balanced Brackets
     - [x] : Queue Ops
-
+    - [x] : Name Lookup
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
