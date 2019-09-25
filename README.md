@@ -13,6 +13,8 @@ May the code be with you.
     - [x] : Count Digits
     - [x] : Count Bits
     - [x] : Birthday Party
+    - [x] : Factorial
+    - [x] : NQueens
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
