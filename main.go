@@ -1,9 +1,7 @@
 package main
 
-import (
-	basic_programming "github.com/theodesp/go-hackerearth/basic-programming"
-)
+import data_structures "github.com/theodesp/go-hackerearth/data-structures"
 
 func main() {
-	basic_programming.PrintNQueens()
+	data_structures.PrintTranspose()
 }

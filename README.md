@@ -15,6 +15,11 @@ May the code be with you.
     - [x] : Birthday Party
     - [x] : Factorial
     - [x] : NQueens
+    
+- [x] **Data Structures**: [Link](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
+    - [x] : Array Reverse
+    - [x] : Transpose Matrix
+
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
