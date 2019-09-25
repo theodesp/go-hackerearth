@@ -20,6 +20,7 @@ May the code be with you.
     - [x] : Array Reverse
     - [x] : Transpose Matrix
     - [x] : Balanced Brackets
+    - [x] : Queue Ops
 
 
 ## LICENCE
