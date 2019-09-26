@@ -22,6 +22,7 @@ May the code be with you.
     - [x] : Balanced Brackets
     - [x] : Queue Ops
     - [x] : Name Lookup
+    - [x] : Single Linked List Add
 
 ## LICENCE
 Copyright © 2019 Theo Despoudis MIT license
